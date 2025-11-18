@@ -1,4 +1,4 @@
-import{j as e}from"./index-CylYMM9B.js";import{C as i,c as n,a as o,b as l,d as s}from"./card-DEJ3nOxv.js";const d=[{title:"Mictlantecuhtli",description:"Dios mexica del inframundo, Señor del Mictlán.",content:`Mictlantecuhtli es una deidad fundamental en la mitología mexica (azteca),
+import{j as e}from"./index-B3d3X2tA.js";import{C as i,c as n,a as o,b as l,d as s}from"./card-BJh2PKUT.js";const d=[{title:"Mictlantecuhtli",description:"Dios mexica del inframundo, Señor del Mictlán.",content:`Mictlantecuhtli es una deidad fundamental en la mitología mexica (azteca),
 representado de forma esquelética y gobernando el Mictlán, el inframundo.
 Custodia los huesos de las generaciones pasadas, esenciales para la creación de la humanidad.
 Se le representa como un ser esquelético, simbolizando su dominio sobre el fin de la vida y la regeneración.
